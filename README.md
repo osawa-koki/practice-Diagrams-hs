@@ -1,7 +1,8 @@
 # practice-Diagrams-hs
 
 HaskellでDiagramパッケージを使用して画像を描写します。
-結構楽しい♪♬
+
+![ひまわり](./fruits/sunflower.svg)
 
 ## 実行方法
 
