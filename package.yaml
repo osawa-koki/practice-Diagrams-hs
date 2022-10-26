@@ -48,6 +48,7 @@ executables:
     - practice-Diagrams-hs
     - diagrams-lib
     - diagrams-svg
+    - diagrams-contrib
 
 tests:
   practice-Diagrams-hs-test:
