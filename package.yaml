@@ -49,6 +49,7 @@ executables:
     - diagrams-lib
     - diagrams-svg
     - diagrams-contrib
+    - palette
 
 tests:
   practice-Diagrams-hs-test:
